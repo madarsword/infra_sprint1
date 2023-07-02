@@ -1,0 +1,6 @@
+IP: 158.160.73.213;
+name_taski: https://shprtaski.sytes.net/;
+name_kittygram: https://shprkittygram.sytes.net/;
+login: aleksandrshpr;
+password: AAfrWScoEg;
+
