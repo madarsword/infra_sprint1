@@ -135,6 +135,7 @@ media/
 .media
 
 # FRONTEND
+/frontend/node_modules
 
 # dependencies
 /node_modules
