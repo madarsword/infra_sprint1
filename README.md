@@ -13,22 +13,30 @@
 ### Запуск проекта *backend*:
 Клонируйте проект: 
 > *git clone git@github.com:madarsword/infra_sprint1.git*
+
 При необходимости установите и активируйте виртуально окружение: 
 > *python(3) -m venv venv*
+
 > *source venv/bin/activate*
+
 Установите зависимости: 
 > *pip install -r requirements.txt*
+
 Произведите миграции: 
 > *python manage.py migrate*
+
 Запустите отладочный веб-сервер Django: 
 > *python manage.py runserver*
 
 ### Запуск проекта *frontend*:
 Установите пакетный менеджер:
 > *curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\*
+
 > *sudo apt-get install -y nodejs*
+
 Установите зависимости для фронтенд-приложения, для этого нужно перейти в директорию frontend/ и ввести команду:
 > *npm i*
+
 Запуск осуществляется командой:
 > *npm run start*
 
